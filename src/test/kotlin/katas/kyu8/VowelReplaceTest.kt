@@ -2,7 +2,6 @@ package katas.kyu8
 
 import dev.janku.learn.kotlincodewars.katas.kyu8.Katas8kyu
 import dev.janku.learn.kotlincodewars.katas.kyu8.vowelReplace
-import org.junit.jupiter.api.Test
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.Arguments
 import org.junit.jupiter.params.provider.MethodSource

@@ -1,10 +1,8 @@
 package katas.kyu7
 
 import dev.janku.learn.kotlincodewars.katas.kyu7.Katas7kyu
-import dev.janku.learn.kotlincodewars.katas.kyu7.countRedBeads
 import dev.janku.learn.kotlincodewars.katas.kyu7.dnaComplement
 import org.junit.jupiter.api.Assertions.assertEquals
-import org.junit.jupiter.api.Assertions.assertThrows
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.assertThrows
 import org.junit.jupiter.params.ParameterizedTest
